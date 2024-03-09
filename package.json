@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "tsx ./index.ts",
+    "start": "tsx ./src/index.ts",
     "audit": "better-npm-audit audit",
     "format": "prettier --write .",
     "lint": "eslint \"src/**/*.ts\"",
